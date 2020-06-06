@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TheNumberOfPositions {
+public class LittleElephantFunction {
 	static Scanner scn = new Scanner(System.in);
 
 	public static void main(String[] args) {
@@ -10,11 +10,11 @@ public class TheNumberOfPositions {
 	public static void helper() {
 
 		int n = (int)input();
-		int a = (int)input();
-		int b = (int)input();
+		print(n + " ");
+		for (int i = 1; i < n; i++)
+			print(i + " ");
 
-		print(Math.min(n - a, b + 1) + "\n");
-
+		print();
 
 	}
 

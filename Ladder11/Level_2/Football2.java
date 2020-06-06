@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TheNumberOfPositions {
+public class Football2 {
 	static Scanner scn = new Scanner(System.in);
 
 	public static void main(String[] args) {
@@ -9,12 +9,25 @@ public class TheNumberOfPositions {
 
 	public static void helper() {
 
-		int n = (int)input();
-		int a = (int)input();
-		int b = (int)input();
+		String str = input(1);
+		int one = 0, zero = 0;
 
-		print(Math.min(n - a, b + 1) + "\n");
+		for (int i = 0; i < str.length(); i++) {
 
+			if (str.charAt(i) == '1') {
+				one++;
+				zero = 0;
+			} else {
+				one = 0;
+				zero++;
+			}
+
+			if (one == 7 || zero == 7) {
+				print("YES");
+				return;
+			}
+		}
+		print("NO");
 
 	}
 

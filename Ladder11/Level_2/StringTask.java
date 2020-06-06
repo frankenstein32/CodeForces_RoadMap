@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TheNumberOfPositions {
+public class StringTask {
 	static Scanner scn = new Scanner(System.in);
 
 	public static void main(String[] args) {
@@ -9,13 +9,29 @@ public class TheNumberOfPositions {
 
 	public static void helper() {
 
-		int n = (int)input();
-		int a = (int)input();
-		int b = (int)input();
+		String str = input(1);
+		StringBuilder sb = new StringBuilder();
 
-		print(Math.min(n - a, b + 1) + "\n");
+		for (char ch : str.toCharArray()) {
 
+			if (!isVowel(ch)) {
+				sb.append(".");
 
+				if (Character.isUpperCase(ch)) {
+					sb.append(Character.toLowerCase(ch));
+				} else {
+					sb.append(ch);
+				}
+			}
+		}
+
+		print(sb);
+
+	}
+
+	public static boolean isVowel(char ch) {
+
+		return "AaEeIiOoUuyY".contains(ch + "");
 	}
 
 	public static long input() {
