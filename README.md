@@ -41,4 +41,5 @@ There are some segregated questions(rank wise) which anyone must solve inorder t
 5. .........to be continued
 
 ### Note : 
-Some codes are available in cpp language because Java code failed due to Time Limit Exceeded.
+1. Some codes are available in cpp language because Java code failed due to Time Limit Exceeded.
+2. Every .java file will contain some template code too (takeInput of array, print array, also shortmethod to avoid writing System.out.println(), etc).
