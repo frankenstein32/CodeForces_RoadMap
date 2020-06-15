@@ -47,7 +47,7 @@ For beginners, unrated users or users with Codeforces Rating < 1300. Below state
 
 |  ID | Problem Name   |  Level |  | ID | Problem Name | Level | | ID | Problem Name | Level
 |---|:--|:-:|---|---|---|:-:|---|---|---|:-:|
-|  1. | <a href="http://codeforces.com/problemset/problem/69/A">YoungPhysicist</a>  |  1 | | 35. | <a href="http://codeforces.com/problemset/problem/339/B">Xenia and Ringroad</a> | 2 | |  69. | <a href="http://codeforces.com/problemset/problem/433/A">Kitahara Gift</a> | 3 |
+|  1. | <a href="http://codeforces.com/problemset/problem/69/A" target="_blank">YoungPhysicist</a>  |  1 | | 35. | <a href="http://codeforces.com/problemset/problem/339/B">Xenia and Ringroad</a> | 2 | |  69. | <a href="http://codeforces.com/problemset/problem/433/A">Kitahara Gift</a> | 3 |
 |  2. | <a href="http://codeforces.com/problemset/problem/263/A">Beautiful Matrix</a>  | 1  | | 36. | <a href="http://codeforces.com/problemset/problem/320/A">Magic numbers</a> | 2 | |  70. | <a href="http://codeforces.com/problemset/problem/186/A">Comparing strings</a> | 3 |
 |  3. | <a href="http://codeforces.com/problemset/problem/266/B">Queue at the school</a>  |  1 | | 37. | <a href="http://codeforces.com/problemset/problem/41/A">Translation</a> | 2 | |  71. | <a href="http://codeforces.com/problemset/problem/327/B">Hungry Sequence</a> | 3 |
 | 4.  |  <a href="http://codeforces.com/problemset/problem/32/B">Borze</a> | 1  |  | 38. | <a href="http://codeforces.com/problemset/problem/43/A">Football</a> | 2 | |  72. | <a href="http://codeforces.com/problemset/problem/242/B">Big segment</a> | 3 |
