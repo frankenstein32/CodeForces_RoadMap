@@ -3,32 +3,34 @@ This repository will contain Ladder Map(or Road Map) to start or improve on Code
 
 ### The Ladder Map 
 
+<center>
+  
+| ID  |  Name                                       |   Problems Count  |
+| ----|:-------------------------------------------:|------------------:|
+| 11. |  [Codeforces Rating < 1300](#Ladder11)	    |      100          |            
+| 12. |  1300 <= Codeforces Rating <= 1399          |      100          |
+| 13. |  1400 <= Codeforces Rating <= 1499          |      100          |
+| 14. |  1500 <= Codeforces Rating <= 1599          |      100          |
+| 15. |  1600 <= Codeforces Rating <= 1699          |      100          |
+| 16. |  1700 <= Codeforces Rating <= 1799          |      100          |
+| 17. |  1800 <= Codeforces Rating <= 1899          |      100          |
+| 18. |  1900 <= Codeforces Rating <= 1999          |      100          |
+| 19. |  2000 <= Codeforces Rating <= 2099          |      100          |
+| 20. |  2100 <= Codeforces Rating <= 2199          |      100          |
+| 21. |  Codeforces Rating >= 2200                  |      100          |
+| 22. |  Codeforces Rating < 1300 (Extra)           |      200          |
+| 23. |  1300 <= Codeforces Rating <= 1399 (Extra)  |      200          |
+| 24. |  1400 <= Codeforces Rating <= 1499 (Extra)  |      200          |
+| 25. |  1500 <= Codeforces Rating <= 1599 (Extra)  |      200          |
+| 26. |  1600 <= Codeforces Rating <= 1699 (Extra)  |      200          |
+| 27. |  1700 <= Codeforces Rating <= 1799 (Extra)  |      200          |
+| 28. |  1800 <= Codeforces Rating <= 1899 (Extra)  |      200          |
+| 29. |  1900 <= Codeforces Rating <= 1999 (Extra)  |      200          |
+| 30. |  2000 <= Codeforces Rating <= 2099 (Extra)  |      200          |
+| 31. |  2100 <= Codeforces Rating <= 2199 (Extra)  |      200          |
+| 32. |  Codeforces Rating >= 2200 (Extra)          |      200          |
 
-                  | ID  |  Name                                       |   Problems Count  |
-                  | ----|---------------------------------------------|-------------------|
-                  | 11. |  Codeforces Rating < 1300	                  |      100          |            
-                  | 12. |  1300 <= Codeforces Rating <= 1399          |      100          |
-                  | 13. |  1400 <= Codeforces Rating <= 1499          |      100          |
-                  | 14. |  1500 <= Codeforces Rating <= 1599          |      100          |
-                  | 15. |  1600 <= Codeforces Rating <= 1699          |      100          |
-                  | 16. |  1700 <= Codeforces Rating <= 1799          |      100          |
-                  | 17. |  1800 <= Codeforces Rating <= 1899          |      100          |
-                  | 18. |  1900 <= Codeforces Rating <= 1999          |      100          |
-                  | 19. |  2000 <= Codeforces Rating <= 2099          |      100          |
-                  | 20. |  2100 <= Codeforces Rating <= 2199          |      100          |
-                  | 21. |  Codeforces Rating >= 2200                  |      100          |
-                  | 22. |  Codeforces Rating < 1300 (Extra)           |      200          |
-                  | 23. |  1300 <= Codeforces Rating <= 1399 (Extra)  |      200          |
-                  | 24. |  1400 <= Codeforces Rating <= 1499 (Extra)  |      200          |
-                  | 25. |  1500 <= Codeforces Rating <= 1599 (Extra)  |      200          |
-                  | 26. |  1600 <= Codeforces Rating <= 1699 (Extra)  |      200          |
-                  | 27. |  1700 <= Codeforces Rating <= 1799 (Extra)  |      200          |
-                  | 28. |  1800 <= Codeforces Rating <= 1899 (Extra)  |      200          |
-                  | 29. |  1900 <= Codeforces Rating <= 1999 (Extra)  |      200          |
-                  | 30. |  2000 <= Codeforces Rating <= 2099 (Extra)  |      200          |
-                  | 31. |  2100 <= Codeforces Rating <= 2199 (Extra)  |      200          |
-                  | 32. |  Codeforces Rating >= 2200 (Extra)          |      200          |
-
+</center>
 
 ### About The Folders
 There are some segregated questions(rank wise) which anyone must solve inorder to increase or to openup the rank at codeforces platform.
