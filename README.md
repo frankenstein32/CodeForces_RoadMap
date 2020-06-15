@@ -6,8 +6,8 @@ This repository will contain Ladder Map(or Road Map) to start or improve on Code
 <center>
   
 | ID  |  Name                                       |   Problems Count  |
-| ----|:-------------------------------------------:|------------------:|
-| 11. |  [Codeforces Rating < 1300](#Ladder11)	    |      100          |            
+|:---:|:-------------------------------------------:|:-----------------:|
+| 11. |  [Codeforces Rating < 1300](#Ladder11)	    |100          |            
 | 12. |  1300 <= Codeforces Rating <= 1399          |      100          |
 | 13. |  1400 <= Codeforces Rating <= 1499          |      100          |
 | 14. |  1500 <= Codeforces Rating <= 1599          |      100          |
@@ -46,7 +46,7 @@ There are some segregated questions(rank wise) which anyone must solve inorder t
 Below stated are the questions discussed in ladder11 level-wise.
 
 |  ID | Problem Name   |  Level |  | ID | Problem Name | Level | | ID | Problem Name | Level
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:--|:-:|---|---|---|:-:|---|---|---|:-:|
 |  1. | <a href="http://codeforces.com/problemset/problem/69/A">YoungPhysicist</a>  |  1 | | 35. | <a href="http://codeforces.com/problemset/problem/339/B">Xenia and Ringroad</a> | 2 | |  69. | <a href="http://codeforces.com/problemset/problem/433/A">Kitahara Gift</a> | 3 |
 |  2. | <a href="http://codeforces.com/problemset/problem/263/A">Beautiful Matrix</a>  | 1  | | 36. | <a href="http://codeforces.com/problemset/problem/320/A">Magic numbers</a> | 2 | |  70. | <a href="http://codeforces.com/problemset/problem/186/A">Comparing strings</a> | 3 |
 |  3. | <a href="http://codeforces.com/problemset/problem/266/B">Queue at the school</a>  |  1 | | 37. | <a href="http://codeforces.com/problemset/problem/41/A">Translation</a> | 2 | |  71. | <a href="http://codeforces.com/problemset/problem/327/B">Hungry Sequence</a> | 3 |
