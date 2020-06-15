@@ -42,8 +42,8 @@ There are some segregated questions(rank wise) which anyone must solve inorder t
 4. __Level Folder__ - This folder will contain source of various problems with the particular difficulty level (Level - 1, 2, 3, 4, 5)
 5. .........to be continued
 
-### Ladder11
-Below stated are the questions discussed in ladder11 level-wise.
+### Ladder11 
+For beginners, unrated users or users with Codeforces Rating < 1300. Below stated are the questions discussed in ladder11 level-wise.
 
 |  ID | Problem Name   |  Level |  | ID | Problem Name | Level | | ID | Problem Name | Level
 |---|:--|:-:|---|---|---|:-:|---|---|---|:-:|
